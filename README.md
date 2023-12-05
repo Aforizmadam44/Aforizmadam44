@@ -5,7 +5,7 @@ I’m currently working on 🧮 <br>I’m looking to collaborate on 📇<br> I�
  <img src ="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif" width="280px" />
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aforizmaadam_44) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/ismail-huseynov-a8b50427b
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aforizmaadam_44) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-huseynov-a8b50427b
 
 ) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)
 
