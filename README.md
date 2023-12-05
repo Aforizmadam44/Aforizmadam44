@@ -5,7 +5,7 @@ with a flair for creating engaging and intuitive user interfaces.<br>
 My journey in the world of web development started with a fascination<br>
 for turning ideas into visually appealing and functional websites.<br>
 <br>
- <img src ="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif" width="420px" />
+ <img src ="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif" width="480px" />
 
 ## 🌐 Socials:
 Instagram- https://instagram.com/aforizmaadam_44<br>  Linkedin- https://www.linkedin.com/in/ismail-huseynov-a8b50427b
