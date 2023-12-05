@@ -1,4 +1,4 @@
-<div style="display:flex">
+<div style="display: flex;">
 <div>
   # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning and thinking<br>💬 Ask me about<br>⚡ Fun fact i am lazy but smart
