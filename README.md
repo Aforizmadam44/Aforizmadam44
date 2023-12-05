@@ -1,18 +1,10 @@
-<div style="display: flex;">
-<div>
+
   # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning and thinking<br>💬 Ask me about<br>⚡ Fun fact i am lazy but smart
-</div>
+🔭 I’m currently working on ![WorkGIF](https://github.com/Aforizmadam44/Aforizmadam44/assets/140083892/7784498d-b200-40d2-8ee3-6f0729ded996)<br>![WorkGIF (2)](https://github.com/Aforizmadam44/Aforizmadam44/assets/140083892/d18dfce2-8394-490d-83ce-41853f08a002)
+
+ I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning and thinking<br>💬 Ask me about<br>⚡ Fun fact i am lazy but smart
   <br><br>
-<div>
  <img src ="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif" width="280px" />
-</div>
-
-</div>
-
-
-
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aforizmadam_44) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)
