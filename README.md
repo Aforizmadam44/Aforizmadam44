@@ -1,6 +1,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning and thinking<br>💬 Ask me about<br>⚡ Fun fact i am lazy but smart
+<br>
 <img src ="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif" />
 
 ## 🌐 Socials:
