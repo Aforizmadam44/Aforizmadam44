@@ -1,6 +1,6 @@
 
   # 💫 About Me:
-👋 Hello there! I'm Ismail Huseyn, a passionate front-end developer
+👋 Hello there! I'm Ismail Huseyn, a passionate front-end developer<br>
 with a flair for creating engaging and intuitive user interfaces.
 My journey in the world of web development started with a fascination
 for turning ideas into visually appealing and functional websites.
