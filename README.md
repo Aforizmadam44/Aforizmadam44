@@ -1,7 +1,6 @@
 
   # 💫 About Me:
-I’m currently working on 🧮 <br>I’m looking to collaborate on 📇<br> I’m looking for help with 💻<br> I’m currently learning and thinking 💭<br> Ask me about 🧑‍💻<br>
-  <br><br>
+👋 Hello there! I'm Ismail Huseyn, a passionate front-end developer with a flair for creating engaging and intuitive user interfaces. My journey in the world of web development started with a fascination for turning ideas into visually appealing and functional websites.
  <img src ="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif" width="280px" />
 
 ## 🌐 Socials:
